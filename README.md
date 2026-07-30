@@ -14,6 +14,7 @@ Claude Code를 학습 코치로 활용하는 개인 학습 기록 저장소.
 | 문서 | 주제 |
 |------|------|
 | [260718-dlq-outbox-패턴.md](./cs-study/260718-dlq-outbox-패턴.md) | DLQ & Outbox 패턴 — 장애 대응 기초 |
+| [260718-nft-블록체인-해시인증.md](./cs-study/260718-nft-블록체인-해시인증.md) | NFT vs 블록체인 해시 타임스탬핑 — 요구사항 재정의 |
 
 ## 실습 프로젝트 ([hands-on/](./hands-on/))
 
