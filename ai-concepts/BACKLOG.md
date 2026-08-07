@@ -1,4 +1,7 @@
 # 앞으로 공부할 주제
 
-- 하네스 (Harness) — 컨텍스트 엔지니어링 하네스
-- 루프 엔지니어링 (Loop Engineering)
+- 에이전트/멀티에이전트 오케스트레이션
+- 벡터 DB (Vector Database)
+- 파인튜닝 (Fine-tuning)
+- GraphQL
+- 그래프 DB (Graph Database)

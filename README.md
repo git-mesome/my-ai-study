@@ -6,6 +6,9 @@ Claude Code를 학습 코치로 활용하는 개인 학습 기록 저장소.
 
 | 문서 | 주제 |
 |------|------|
+| [260807-하네스-컨텍스트엔지니어링.md](./ai-concepts/260807-하네스-컨텍스트엔지니어링.md) | 하네스 & 컨텍스트 엔지니어링 — 압축 기법 정리 |
+| [260807-루프엔지니어링.md](./ai-concepts/260807-루프엔지니어링.md) | 루프 엔지니어링 — 종료 조건/stuck 감지 설계 |
+| [260807-rag-파이프라인.md](./ai-concepts/260807-rag-파이프라인.md) | RAG 파이프라인 — 검색/보강/생성 구조 |
 | [BACKLOG.md](./ai-concepts/BACKLOG.md) | 앞으로 공부할 주제 목록 |
 | [dictionary.md](./ai-concepts/dictionary.md) | AI 용어 사전 |
 
