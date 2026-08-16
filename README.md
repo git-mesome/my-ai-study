@@ -19,6 +19,7 @@ Claude Code를 학습 코치로 활용하는 개인 학습 기록 저장소.
 | [260718-dlq-outbox-패턴.md](./cs-study/260718-dlq-outbox-패턴.md) | DLQ & Outbox 패턴 — 장애 대응 기초 |
 | [260718-nft-블록체인-해시인증.md](./cs-study/260718-nft-블록체인-해시인증.md) | NFT vs 블록체인 해시 타임스탬핑 — 요구사항 재정의 |
 | [260816-네트워크-기초-면접정리.md](./cs-study/260816-네트워크-기초-면접정리.md) | 네트워크 기초 — OSI/TCP-IP, DNS, ARP, 방화벽, 트러블슈팅 (면접 대비) |
+| [260816-dbms-기초-면접정리.md](./cs-study/260816-dbms-기초-면접정리.md) | DBMS 기초 — RDBMS vs NoSQL, ACID, 트랜잭션 격리 수준 (면접 대비) |
 
 ## 실습 프로젝트 ([hands-on/](./hands-on/))
 
