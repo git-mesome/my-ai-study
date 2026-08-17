@@ -9,6 +9,13 @@ Claude Code를 학습 코치로 활용하는 개인 학습 기록 저장소.
 | [260807-하네스-컨텍스트엔지니어링.md](./ai-concepts/260807-하네스-컨텍스트엔지니어링.md) | 하네스 & 컨텍스트 엔지니어링 — 압축 기법 정리 |
 | [260807-루프엔지니어링.md](./ai-concepts/260807-루프엔지니어링.md) | 루프 엔지니어링 — 종료 조건/stuck 감지 설계 |
 | [260807-rag-파이프라인.md](./ai-concepts/260807-rag-파이프라인.md) | RAG 파이프라인 — 검색/보강/생성 구조 |
+| [260817-agent-native-sre-self-healing.md](./ai-concepts/260817-agent-native-sre-self-healing.md) | Agent-Native SRE/Self-Healing — 에이전트 기반 장애 진단·조치 |
+| [260817-멀티에이전트-오케스트레이션.md](./ai-concepts/260817-멀티에이전트-오케스트레이션.md) | 멀티에이전트 오케스트레이션 — 패턴, 프레임워크 비교, 하네스/세션/에이전트 구분 |
+| [260817-툴-가드레일-엔지니어링.md](./ai-concepts/260817-툴-가드레일-엔지니어링.md) | 툴 엔지니어링 & 가드레일 엔지니어링 — 도구 설계, 훅(hook) 설정법 |
+| [260817-메모리엔지니어링.md](./ai-concepts/260817-메모리엔지니어링.md) | 메모리 엔지니어링 — MemGPT, 세션 vs 메모리 저장소, 정리 전략 |
+| [260817-이벨엔지니어링.md](./ai-concepts/260817-이벨엔지니어링.md) | 이벨(Eval) 엔지니어링 — LLM-as-Judge, 자동/사람 평가 |
+| [260817-그래프엔지니어링-graphrag.md](./ai-concepts/260817-그래프엔지니어링-graphrag.md) | 그래프 엔지니어링(GraphRAG) — 지식그래프 결합 RAG |
+| [260817-ai-엔지니어링-역사.md](./ai-concepts/260817-ai-엔지니어링-역사.md) | AI 엔지니어링 용어 통합 타임라인 — 전체 계열 정리 |
 | [BACKLOG.md](./ai-concepts/BACKLOG.md) | 앞으로 공부할 주제 목록 |
 | [dictionary.md](./ai-concepts/dictionary.md) | AI 용어 사전 |
 
