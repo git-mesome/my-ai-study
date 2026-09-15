@@ -21,15 +21,17 @@ Claude Code를 학습 코치로 활용하는 개인 학습 기록 저장소.
 
 ## CS 학습 ([cs-study/](./cs-study/))
 
+주제별 폴더로 구성: [network](./cs-study/network/), [db](./cs-study/db/), [os-linux](./cs-study/os-linux/), [language](./cs-study/language/), [distributed-systems](./cs-study/distributed-systems/), [misc](./cs-study/misc/)
+
 | 문서 | 주제 |
 |------|------|
-| [260718-dlq-outbox-패턴.md](./cs-study/260718-dlq-outbox-패턴.md) | DLQ & Outbox 패턴 — 장애 대응 기초 |
-| [260718-nft-블록체인-해시인증.md](./cs-study/260718-nft-블록체인-해시인증.md) | NFT vs 블록체인 해시 타임스탬핑 — 요구사항 재정의 |
-| [260816-네트워크-기초-면접정리.md](./cs-study/260816-네트워크-기초-면접정리.md) | 네트워크 기초 — OSI/TCP-IP, DNS, ARP, 방화벽, 트러블슈팅 (면접 대비) |
-| [260816-dbms-기초-면접정리.md](./cs-study/260816-dbms-기초-면접정리.md) | DBMS 기초 — RDBMS vs NoSQL, ACID, 트랜잭션 격리 수준 (면접 대비) |
-| [260817-java-기초-면접정리.md](./cs-study/260817-java-기초-면접정리.md) | Java 기초 — JVM/GC, 컬렉션 내부동작, 동시성, 제네릭/스트림 (면접 대비) |
-| [260817-리눅스-기초-면접정리.md](./cs-study/260817-리눅스-기초-면접정리.md) | 리눅스 기초 — 프로세스/시그널/파일디스크립터/메모리/트러블슈팅 명령어 (면접 대비) |
-| [260915-비대칭라우팅-ecmp-pbr.md](./cs-study/260915-비대칭라우팅-ecmp-pbr.md) | 비대칭 라우팅 — ECMP/PBR, Stateful 방화벽·conntrack, 블랙홀/루프/traceroute (수습 기간 사내 온보딩 학습) |
+| [network/260816-네트워크-기초-면접정리.md](./cs-study/network/260816-네트워크-기초-면접정리.md) | 네트워크 기초 — OSI/TCP-IP, DNS, ARP, 방화벽, 트러블슈팅 (면접 대비) |
+| [network/260915-비대칭라우팅-ecmp-pbr.md](./cs-study/network/260915-비대칭라우팅-ecmp-pbr.md) | 비대칭 라우팅 — ECMP/PBR, Stateful 방화벽·conntrack, 블랙홀/루프/traceroute (수습 기간 사내 온보딩 학습) |
+| [db/260816-dbms-기초-면접정리.md](./cs-study/db/260816-dbms-기초-면접정리.md) | DBMS 기초 — RDBMS vs NoSQL, ACID, 트랜잭션 격리 수준 (면접 대비) |
+| [os-linux/260817-리눅스-기초-면접정리.md](./cs-study/os-linux/260817-리눅스-기초-면접정리.md) | 리눅스 기초 — 프로세스/시그널/파일디스크립터/메모리/트러블슈팅 명령어 (면접 대비) |
+| [language/260817-java-기초-면접정리.md](./cs-study/language/260817-java-기초-면접정리.md) | Java 기초 — JVM/GC, 컬렉션 내부동작, 동시성, 제네릭/스트림 (면접 대비) |
+| [distributed-systems/260718-dlq-outbox-패턴.md](./cs-study/distributed-systems/260718-dlq-outbox-패턴.md) | DLQ & Outbox 패턴 — 장애 대응 기초 |
+| [misc/260718-nft-블록체인-해시인증.md](./cs-study/misc/260718-nft-블록체인-해시인증.md) | NFT vs 블록체인 해시 타임스탬핑 — 요구사항 재정의 |
 
 ## 실습 프로젝트 ([hands-on/](./hands-on/))
 

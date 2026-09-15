@@ -130,7 +130,7 @@
 
 ### ACID
 - 트랜잭션이 지켜야 할 4가지 성질: 원자성(Atomicity), 일관성(Consistency), 격리성(Isolation), 지속성(Durability)
-- 상세: [DBMS 기초 정리](../cs-study/260816-dbms-기초-면접정리.md)
+- 상세: [DBMS 기초 정리](../cs-study/db/260816-dbms-기초-면접정리.md)
 
 ### ARP (Address Resolution Protocol)
 - 같은 네트워크 안에서 IP 주소를 MAC 주소로 변환 (브로드캐스트로 질의 → 유니캐스트로 응답)
@@ -153,7 +153,7 @@
 
 ### 정규화 (Normalization)
 - 데이터 중복을 줄이고 갱신/삽입/삭제 이상을 방지하기 위해 테이블을 분리하는 설계 (1NF~3NF)
-- 상세: [DBMS 기초 정리](../cs-study/260816-dbms-기초-면접정리.md)
+- 상세: [DBMS 기초 정리](../cs-study/db/260816-dbms-기초-면접정리.md)
 
 ### JOIN
 - 두 테이블을 공통 컬럼 기준으로 합쳐 조회 — INNER(교집합), LEFT(왼쪽 전체), RIGHT, FULL OUTER(합집합), CROSS, SELF
@@ -188,7 +188,7 @@
 ### 트랜잭션 격리 수준 (Isolation Level) / MVCC
 - Read Uncommitted < Read Committed < Repeatable Read < Serializable — 낮을수록 빠르지만 Dirty/Non-Repeatable/Phantom Read 위험
 - MVCC(Multi-Version Concurrency Control): 값을 덮어쓰지 않고 버전을 새로 만들어 읽기가 쓰기를 막지 않게 하는 구현 방식
-- 상세: [DBMS 기초 정리](../cs-study/260816-dbms-기초-면접정리.md)
+- 상세: [DBMS 기초 정리](../cs-study/db/260816-dbms-기초-면접정리.md)
 
 ### TLD (Top-Level Domain)
 - 도메인 이름의 가장 끝부분(`.com`, `.io`, `.kr`). gTLD/ccTLD/sTLD로 구분
@@ -222,12 +222,12 @@
 ### RDBMS vs NoSQL
 - RDBMS: 스키마 고정, 테이블 간 관계(FK)와 JOIN, ACID 강하게 보장 (MySQL, PostgreSQL 등)
 - NoSQL: 스키마 유연, 관계 대신 중복 저장, 수평 확장에 유리 (MongoDB, Redis, Cassandra, Neo4j 등)
-- 상세: [DBMS 기초 정리](../cs-study/260816-dbms-기초-면접정리.md)
+- 상세: [DBMS 기초 정리](../cs-study/db/260816-dbms-기초-면접정리.md)
 
 ### 실행계획 (Execution Plan) / N+1 문제
 - 실행계획: DB가 쿼리를 실제로 어떻게 실행할지 계획, `EXPLAIN`으로 확인 (type=ALL, key=NULL이면 풀스캔 위험 신호)
 - N+1 문제: ORM의 지연 로딩으로 반복문에서 연관 엔티티에 접근할 때마다 추가 쿼리가 나가는 문제, Fetch Join/Batch Size로 해결
-- 상세: [DBMS 기초 정리](../cs-study/260816-dbms-기초-면접정리.md)
+- 상세: [DBMS 기초 정리](../cs-study/db/260816-dbms-기초-면접정리.md)
 
 ### 하이브리드 검색 (Hybrid Search)
 - 텍스트 검색(BM25/Elasticsearch)과 벡터 검색(kNN)을 함께 돌려 RRF(Reciprocal Rank Fusion)로 순위 병합, 재랭커로 상위 후보 재평가
